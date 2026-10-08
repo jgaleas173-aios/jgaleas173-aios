@@ -13,6 +13,7 @@ My interests include construction technology, infrastructure, local-first AI, an
 
 | Project | Focus |
 | --- | --- |
+| **[DIGITAL TWIN](https://github.com/jgaleas173-aios/ai-automation-portfolio/blob/main/case-studies/digital-twin.md)** | Personal cognitive decision-support architecture exploring temporal provenance, evidence-based recommendations, and human oversight. |
 | **[AI OS Gateway](https://github.com/jgaleas173-aios/ai-automation-portfolio/blob/main/case-studies/ai-os-gateway.md)** | Research on separating an AI model's proposed action from permission to execute it. |
 | **[AI OS Control Center](https://github.com/jgaleas173-aios/ai-automation-portfolio/blob/main/case-studies/ai-os-control-center.md)** | Local project-status visibility designed to stay separate from the execution path. |
 | **[WorkflowKits](https://github.com/jgaleas173-aios/ai-automation-portfolio/blob/main/case-studies/workflowkits.md)** | Portable Windows workflows with distinct planning, implementation, and review stages. |
